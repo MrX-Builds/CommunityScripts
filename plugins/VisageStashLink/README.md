@@ -60,7 +60,7 @@ exists, choose **Open performer on [external source]** instead.
 
 ## Compatibility and scope
 
-- Verified against the public Visage 2.10.0 implementation dated 2026-11-01.
+- Human-tested with Visage 2.10.0. Visage 2.10.1 changes only scene-list menu placement and leaves this performer-card path unchanged.
 - Uses the same `FindPerformersDocument` and `stash_id_endpoint` lookup pattern
   used by Visage itself.
 - Does not alter Visage files or intercept normal left-click selection.
